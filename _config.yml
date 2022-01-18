@@ -21,11 +21,13 @@ analytics-google: 'UA-82403267-1'
 # disqus: mydisqus
 
 # if you don't have any of social below, comment the line
+facebook: sdpjswl
+instagram: sdpjswl
 github: sdpjswl
 bitbucket: sdpjswl
 #cocoapods: 9860 old one
 cocoapods: 45104
-youtube: /channel/UCLrmrLwNE-m5hDIno4pCriw
+youtube: channel/UCLrmrLwNE-m5hDIno4pCriw
 email: sdpjswl1@gmail.com
 
 authors:
